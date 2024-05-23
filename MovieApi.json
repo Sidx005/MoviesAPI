@@ -1,0 +1,164 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "title": "Inception",
+      "year": 2010,
+      "genre": "Sci-Fi",
+      "director": "Christopher Nolan",
+      "trailer_link": "https://www.youtube.com/watch?v=YoHD9XEInc0"
+    },
+    {
+      "id": 2,
+      "title": "The Shawshank Redemption",
+      "year": 1994,
+      "genre": "Drama",
+      "director": "Frank Darabont",
+      "trailer_link": "https://www.youtube.com/watch?v=6hB3S9bIaco"
+    },
+    {
+      "id": 3,
+      "title": "The Godfather",
+      "year": 1972,
+      "genre": "Crime",
+      "director": "Francis Ford Coppola",
+      "trailer_link": "https://www.youtube.com/watch?v=sY1S34973zA"
+    },
+    {
+      "id": 4,
+      "title": "The Dark Knight",
+      "year": 2008,
+      "genre": "Action",
+      "director": "Christopher Nolan",
+      "trailer_link": "https://www.youtube.com/watch?v=EXeTwQWrcwY"
+    },
+    {
+      "id": 5,
+      "title": "Pulp Fiction",
+      "year": 1994,
+      "genre": "Crime",
+      "director": "Quentin Tarantino",
+      "trailer_link": "https://www.youtube.com/watch?v=s7EdQ4FqbhY"
+    },
+    {
+      "id": 6,
+      "title": "Forrest Gump",
+      "year": 1994,
+      "genre": "Drama",
+      "director": "Robert Zemeckis",
+      "trailer_link": "https://www.youtube.com/watch?v=bLvqoHBptjg"
+    },
+    {
+      "id": 7,
+      "title": "The Matrix",
+      "year": 1999,
+      "genre": "Sci-Fi",
+      "director": "The Wachowskis",
+      "trailer_link": "https://www.youtube.com/watch?v=vKQi3bBA1y8"
+    },
+    {
+      "id": 8,
+      "title": "Fight Club",
+      "year": 1999,
+      "genre": "Drama",
+      "director": "David Fincher",
+      "trailer_link": "https://www.youtube.com/watch?v=SUXWAEX2jlg"
+    },
+    {
+      "id": 9,
+      "title": "Interstellar",
+      "year": 2014,
+      "genre": "Sci-Fi",
+      "director": "Christopher Nolan",
+      "trailer_link": "https://www.youtube.com/watch?v=zSWdZVtXT7E"
+    },
+    {
+      "id": 10,
+      "title": "The Lord of the Rings: The Fellowship of the Ring",
+      "year": 2001,
+      "genre": "Fantasy",
+      "director": "Peter Jackson",
+      "trailer_link": "https://www.youtube.com/watch?v=V75dMMIW2B4"
+    },
+    {
+      "id": 11,
+      "title": "Dilwale Dulhania Le Jayenge",
+      "year": 1995,
+      "genre": "Romance",
+      "director": "Aditya Chopra",
+      "trailer_link": "https://www.youtube.com/watch?v=c25GKl5VNeY"
+    },
+    {
+      "id": 12,
+      "title": "3 Idiots",
+      "year": 2009,
+      "genre": "Comedy",
+      "director": "Rajkumar Hirani",
+      "trailer_link": "https://www.youtube.com/watch?v=xvszmNXdM4w"
+    },
+    {
+      "id": 13,
+      "title": "Lagaan",
+      "year": 2001,
+      "genre": "Drama",
+      "director": "Ashutosh Gowariker",
+      "trailer_link": "https://www.youtube.com/watch?v=oSIGQ0YkFxs"
+    },
+    {
+      "id": 14,
+      "title": "Dangal",
+      "year": 2016,
+      "genre": "Biography",
+      "director": "Nitesh Tiwari",
+      "trailer_link": "https://www.youtube.com/watch?v=x_7YlGv9u1g"
+    },
+    {
+      "id": 15,
+      "title": "Sholay",
+      "year": 1975,
+      "genre": "Action",
+      "director": "Ramesh Sippy",
+      "trailer_link": "https://www.youtube.com/watch?v=J0GarVrBDYQ"
+    },
+    {
+      "id": 16,
+      "title": "Kabhi Khushi Kabhie Gham",
+      "year": 2001,
+      "genre": "Drama",
+      "director": "Karan Johar",
+      "trailer_link": "https://www.youtube.com/watch?v=7cd8MICqI14"
+    },
+    {
+      "id": 17,
+      "title": "Zindagi Na Milegi Dobara",
+      "year": 2011,
+      "genre": "Adventure",
+      "director": "Zoya Akhtar",
+      "trailer_link": "https://www.youtube.com/watch?v=FJrpcDgC3zU"
+    },
+    {
+      "id": 18,
+      "title": "Barfi!",
+      "year": 2012,
+      "genre": "Comedy",
+      "director": "Anurag Basu",
+      "trailer_link": "https://www.youtube.com/watch?v=emJ09XpO93s"
+    },
+    {
+      "id": 19,
+      "title": "Queen",
+      "year": 2013,
+      "genre": "Drama",
+      "director": "Vikas Bahl",
+      "trailer_link": "https://www.youtube.com/watch?v=KGC6vl3lzf0"
+    },
+    {
+      "id": 20,
+      "title": "PK",
+      "year": 2014,
+      "genre": "Comedy",
+      "director": "Rajkumar Hirani",
+      "trailer_link": "https://www.youtube.com/watch?v=SOXWc32k4zA"
+    }
+  ]
+}
