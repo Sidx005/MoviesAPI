@@ -7,7 +7,8 @@
       "genre": "Sci-Fi",
       "director": "Christopher Nolan",
       "trailer_link": "https://www.youtube.com/watch?v=YoHD9XEInc0",
-      "poster":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsnlLDEC3c60pfOyVB7xTNM_O-rBQYcQptsmlEcjYX6w&s"
+      "poster": "https://m.media-amazon.com/images/I/81p+xe8cbnL._AC_SL1500_.jpg",
+      "description": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a CEO."
     },
     {
       "id": 2,
@@ -16,7 +17,8 @@
       "genre": "Drama",
       "director": "Frank Darabont",
       "trailer_link": "https://www.youtube.com/watch?v=6hB3S9bIaco",
-      "poster":"https://images-cdn.ubuy.co.in/6351416337e9de157a371824-shawshank-redemption-movie-poster-us.jpg"
+      "poster": "https://m.media-amazon.com/images/I/51NiGlapXlL._AC_.jpg",
+      "description": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency."
     },
     {
       "id": 3,
@@ -25,7 +27,8 @@
       "genre": "Crime",
       "director": "Francis Ford Coppola",
       "trailer_link": "https://www.youtube.com/watch?v=sY1S34973zA",
-      "poster":"https://m.media-amazon.com/images/I/81C9FT0-8CL._AC_UF1000,1000_QL80_.jpg"
+      "poster": "https://m.media-amazon.com/images/I/51oBxmV-dML._AC_.jpg",
+      "description": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son."
     },
     {
       "id": 4,
@@ -34,7 +37,8 @@
       "genre": "Action",
       "director": "Christopher Nolan",
       "trailer_link": "https://www.youtube.com/watch?v=EXeTwQWrcwY",
-      "poster":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS474VbIY9L5qONDYM6O2-_HytVKKbwN3TuXMHdfxB_IQ&s"
+      "poster": "https://m.media-amazon.com/images/I/71pVp-A3ZBL._AC_SL1000_.jpg",
+      "description": "When the menace known as the Joker emerges from his mysterious past, he wreaks havoc and chaos on the people of Gotham."
     },
     {
       "id": 5,
@@ -43,7 +47,8 @@
       "genre": "Crime",
       "director": "Quentin Tarantino",
       "trailer_link": "https://www.youtube.com/watch?v=s7EdQ4FqbhY",
-      "poster":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRliqBj6I0pd_ezK6M2BO6wy34reU_T11q_YHFt_alLzw&s"
+      "poster": "https://m.media-amazon.com/images/I/71c05lTE03L._AC_SL1024_.jpg",
+      "description": "The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption."
     },
     {
       "id": 6,
@@ -52,7 +57,8 @@
       "genre": "Drama",
       "director": "Robert Zemeckis",
       "trailer_link": "https://www.youtube.com/watch?v=bLvqoHBptjg",
-      "poster":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvDuFpQEKAbRSpf3reMMYDE5VUWP3hjFDOGI6GK8cPzQ&s"
+      "poster": "https://m.media-amazon.com/images/I/81xTx-LYkiL._AC_SL1500_.jpg",
+      "description": "The presidencies of Kennedy and Johnson, the Vietnam War, the Watergate scandal, and other historical events unfold through the perspective of an Alabama man with an IQ of 75."
     },
     {
       "id": 7,
@@ -61,7 +67,8 @@
       "genre": "Sci-Fi",
       "director": "The Wachowskis",
       "trailer_link": "https://www.youtube.com/watch?v=vKQi3bBA1y8",
-      "poster":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTZpxe6S4JYZI_-HRttV5LB_pAoZCuBjH1VBon90ewfA&s"
+      "poster": "https://m.media-amazon.com/images/I/51EG732BV3L.jpg",
+      "description": "A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers."
     },
     {
       "id": 8,
@@ -70,7 +77,8 @@
       "genre": "Drama",
       "director": "David Fincher",
       "trailer_link": "https://www.youtube.com/watch?v=SUXWAEX2jlg",
-      "poster":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQziPIQnnMTSu9vyhuzO-l1FF-DxTXdDuNTlKhxfOdKEg&s"
+      "poster": "https://m.media-amazon.com/images/I/51v5ZpFyaFL._AC_.jpg",
+      "description": "An insomniac office worker and a devil-may-care soap maker form an underground fight club that evolves into much more."
     },
     {
       "id": 9,
@@ -79,7 +87,8 @@
       "genre": "Sci-Fi",
       "director": "Christopher Nolan",
       "trailer_link": "https://www.youtube.com/watch?v=zSWdZVtXT7E",
-      "poster":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRE8xZbi8r7ImwqImi3Wow7AoKwATmbFldLmtbbu5O9w&s"
+      "poster": "https://m.media-amazon.com/images/I/91kFYg4fX3L._AC_SL1500_.jpg",
+      "description": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival."
     },
     {
       "id": 10,
@@ -88,7 +97,8 @@
       "genre": "Fantasy",
       "director": "Peter Jackson",
       "trailer_link": "https://www.youtube.com/watch?v=V75dMMIW2B4",
-      "poster":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9ylpoUY7zJKtQmv489a2vXL2vOo4EEv7J04SbMHgIJA&s"
+      "poster": "https://m.media-amazon.com/images/I/51Qvs9i5a%2BL._AC_.jpg",
+      "description": "A meek Hobbit from the Shire and eight companions set out on a journey to destroy the powerful One Ring and save Middle-earth from the Dark Lord Sauron."
     },
     {
       "id": 11,
@@ -97,7 +107,8 @@
       "genre": "Romance",
       "director": "Aditya Chopra",
       "trailer_link": "https://www.youtube.com/watch?v=c25GKl5VNeY",
-      "poster":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSa0m-W1E6_8KzaiFqNWSmVs_-ZFhAjfhfSJtkTPDIouQ&s"
+      "poster": "https://m.media-amazon.com/images/I/81HnO9wVwzL._AC_SL1500_.jpg",
+      "description": "When Raj meets Simran in Europe, it isn't love at first sight but when Simran moves to India for an arranged marriage, love makes its presence felt."
     },
     {
       "id": 12,
@@ -106,7 +117,8 @@
       "genre": "Comedy",
       "director": "Rajkumar Hirani",
       "trailer_link": "https://www.youtube.com/watch?v=xvszmNXdM4w",
-      "poster":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXA22By_ozAZCwZYEf27hLS88nm7P3vcb5pTFSHtuIkw&s"
+      "poster": "https://m.media-amazon.com/images/I/71zlb9IIbYL._AC_SY679_.jpg",
+      "description": "Two friends are searching for their long lost companion. They revisit their college days and recall the memories of their friend who inspired them to think differently."
     },
     {
       "id": 13,
@@ -115,7 +127,8 @@
       "genre": "Drama",
       "director": "Ashutosh Gowariker",
       "trailer_link": "https://www.youtube.com/watch?v=oSIGQ0YkFxs",
-      "poster":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_DcfLin2aN1dc0Tkyeugf66WWM6GtwZtOyl7-M-Umlw&s"
+      "poster": "https://m.media-amazon.com/images/I/81bw8mWxW-L._AC_SY679_.jpg",
+      "description": "The people of a small village in Victorian India stake their future on a game of cricket against their ruthless British rulers."
     },
     {
       "id": 14,
@@ -124,7 +137,8 @@
       "genre": "Biography",
       "director": "Nitesh Tiwari",
       "trailer_link": "https://www.youtube.com/watch?v=x_7YlGv9u1g",
-      "poster":"https://m.media-amazon.com/images/I/712b+yDoWVL._AC_UF894,1000_QL80_.jpg"
+      "poster": "https://m.media-amazon.com/images/I/712b+yDoWVL._AC_UF894,1000_QL80_.jpg",
+      "description": "Former wrestler Mahavir Singh Phogat and his two wrestler daughters struggle towards glory at the Commonwealth Games in the face of societal oppression."
     },
     {
       "id": 15,
@@ -133,7 +147,8 @@
       "genre": "Action",
       "director": "Ramesh Sippy",
       "trailer_link": "https://www.youtube.com/watch?v=J0GarVrBDYQ",
-      "poster":"https://m.media-amazon.com/images/I/61NhAcNBC+L._AC_UF894,1000_QL80_.jpg"
+      "poster": "https://m.media-amazon.com/images/I/61NhAcNBC+L._AC_UF894,1000_QL80_.jpg",
+      "description": "After his family is murdered by a notorious and ruthless bandit, a former police officer enlists the help of two outlaws to capture him."
     },
     {
       "id": 16,
@@ -142,7 +157,8 @@
       "genre": "Drama",
       "director": "Karan Johar",
       "trailer_link": "https://www.youtube.com/watch?v=7cd8MICqI14",
-      "poster":"https://m.media-amazon.com/images/M/MV5BOTQ5Nzc3NzAtMzZlMS00ZWJjLWIxMGMtNDU4ZTQ1NmNjMjc5XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_FMjpg_UX1000_.jpg"
+      "poster": "https://m.media-amazon.com/images/M/MV5BOTQ5Nzc3NzAtMzZlMS00ZWJjLWIxMGMtNDU4ZTQ1NmNjMjc5XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_FMjpg_UX1000_.jpg",
+      "description": "Yashvardhan Raichand lives a very wealthy lifestyle along with his wife, Nandini, and two sons, Rahul and Rohan. While Rahul has been adopted, Yashvardhan and Nandini treat him as their own."
     },
     {
       "id": 17,
@@ -151,7 +167,8 @@
       "genre": "Adventure",
       "director": "Zoya Akhtar",
       "trailer_link": "https://www.youtube.com/watch?v=FJrpcDgC3zU",
-      "poster":"https://rukminim2.flixcart.com/image/850/1000/poster/c/8/5/athah-pop-art-poster-zindagi-na-milegi-dobara-poster-print-original-imaefff6xhz7em5y.jpeg?q=90&crop=false"
+      "poster": "https://rukminim2.flixcart.com/image/850/1000/poster/c/8/5/athah-pop-art-poster-zindagi-na-milegi-dobara-poster-print-original-imaefff6xhz7em5y.jpeg?q=90&crop=false",
+      "description": "Three friends decide to turn their fantasy vacation into reality after one of their friends gets engaged."
     },
     {
       "id": 18,
@@ -160,7 +177,8 @@
       "genre": "Comedy",
       "director": "Anurag Basu",
       "trailer_link": "https://www.youtube.com/watch?v=emJ09XpO93s",
-      "poster":"https://m.media-amazon.com/images/M/MV5BMTQzMTEyODY2Ml5BMl5BanBnXkFtZTgwMjA0MDUyMjE@._V1_FMjpg_UX1000_.jpg"
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTQzMTEyODY2Ml5BMl5BanBnXkFtZTgwMjA0MDUyMjE@._V1_FMjpg_UX1000_.jpg",
+      "description": "Three young people learn that love can neither be defined nor contained by society's norms of normal and abnormal."
     },
     {
       "id": 19,
@@ -169,7 +187,8 @@
       "genre": "Drama",
       "director": "Vikas Bahl",
       "trailer_link": "https://www.youtube.com/watch?v=KGC6vl3lzf0",
-      "poster":"https://m.media-amazon.com/images/I/51LYma0fsbL._UF1000,1000_QL80_.jpg"
+      "poster": "https://m.media-amazon.com/images/I/51LYma0fsbL._UF1000,1000_QL80_.jpg",
+      "description": "A Delhi girl from a traditional family sets out on a solo honeymoon after her marriage gets canceled."
     },
     {
       "id": 20,
@@ -178,7 +197,9 @@
       "genre": "Comedy",
       "director": "Rajkumar Hirani",
       "trailer_link": "https://www.youtube.com/watch?v=SOXWc32k4zA",
-      "poster":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmnT_wbh4Tb4KJmEIIKNxxZrTxJdrF0SHdCecRqRYzRw&s"
+      "poster": "https://m.media-amazon.com/images/I/71Tby+t1kqL._AC_SL1095_.jpg",
+      "description": "An alien on Earth loses the only device he can use to communicate with his spaceship. His innocent nature and child-like questions force the country to evaluate the impact of religion on its people."
     }
   ]
 }
+
